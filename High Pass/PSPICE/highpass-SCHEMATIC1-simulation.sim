@@ -1,0 +1,119 @@
+@OrCAD Simulation Server Version: 1.0
+
+@Settings: 2 1
+@General:
+ProfileName= "simulation" 
+ProfileFile= "highpass-SCHEMATIC1-simulation.sim" 
+DesignFile= "c:\users\george latmos\desktop\analog filters\highpass\pspice\highpass.dsn" 0 
+ProjectFile= "C:\Users\George Latmos\Desktop\Design of active and passive analog circuits\High Pass\PSPICE\HighPass.opj" 
+NetlistFile= "" 
+RootSchematics= "SCHEMATIC1" 
+DataFile= "highpass-SCHEMATIC1-simulation.dat" 
+OutFile= "highpass-SCHEMATIC1-simulation.out" 
+Notes=
+@#$BEGINNOTES
+@#$ENDNOTES
+@End General
+@Analysis: 0 0
++0 0 0 
++0 "1ms" 
++1 "" 
++2 "0" 
++3 "" 
++4 "" 
++5 "" 
++6 "" 
+@End Analysis
+@Analysis: 1 1
++2 0 0
++0 "30k" 
++1 "100" 
++2 "20k" 
++3 "" 
++4 "" 
++5 "" 
+@End Analysis
+@Analysis: 2 0
++0 0
++0 "" 
++1 "" 
++2 "" 
++3 "" 
++4 "" 
++5 "" 
++6 "" 
++7 "" 
+@End Analysis
+@Analysis: 3 0
++0 0 0
++0 "" 
++1 "" 
++2 "" 
+@End Analysis
+@Analysis: 4 0
++0 0 1 0 0 0 2 0 
++0 "" 
++1 "" 
++2 "" 
++3 "" 
++4 "" 
++5 "" 
++6 "" 
++7 "" 
+@End Analysis
+@Analysis: 5 0
++0 0
++0 "" 
++1 "" 
++2 "" 
++3 "" 
++4 "" 
++5 "" 
++6 "" 
++7 "" 
+@End Analysis
+@Analysis: 6 0
++1 
++0 "" 
+@End Analysis
+@Analysis: 7 0
++0 0
++0 "" 
++1 "" 
++2 "" 
++3 "" 
++4 "" 
++5 "" 
+@End Analysis
+@Analysis: 8 0
++0 
++0 "" 
++1 "" 
++2 "" 
++3 "" 
++4 "" 
++5 "" 
+@End Analysis
+@Analysis: 9 0
++0 "" 
+@End Analysis
+@Analysis: 10 0
++0 0
++0 "" 
++1 "" 
++2 "" 
++3 "" 
++4 "" 
++5 "" 
++6 "" 
++7 "" 
+@End Analysis
+@Analysis: 11 1
++ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+@End Analysis
+@Analysis: 12 0
++1118480 0
+@End Analysis
+@Analysis: 13 1
++0 1 1 0
+@End Analysis
